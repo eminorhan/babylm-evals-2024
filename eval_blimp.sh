@@ -8,14 +8,14 @@
 #SBATCH --time=1:00:00
 #SBATCH --job-name=eval_blimp
 #SBATCH --output=eval_blimp_%A_%a.out
-#SBATCH --array=1-8
+#SBATCH --array=1-12
 
 # Define the base path for models
-BASE_MODEL=babylm_100M_llama
+BASE_MODEL=babylm_10M_llama
 BASE_PATH=/vast/eo41/babylm/models/${BASE_MODEL}
 
 # Compute the step number based on the array index
-STEP=$((1000 * SLURM_ARRAY_TASK_ID))
+STEP=$((100 * SLURM_ARRAY_TASK_ID))
 
 # Construct the model path
 MODEL_PATH=${BASE_PATH}/step_${STEP}
