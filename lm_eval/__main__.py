@@ -12,7 +12,7 @@ import numpy as np
 
 from lm_eval import evaluator, utils
 from lm_eval.evaluator import request_caching_arg_to_dict
-from lm_eval.logging_utils import WandbLogger
+# from lm_eval.logging_utils import WandbLogger
 from lm_eval.tasks import TaskManager
 from lm_eval.utils import make_table, simple_parse_args_string
 
