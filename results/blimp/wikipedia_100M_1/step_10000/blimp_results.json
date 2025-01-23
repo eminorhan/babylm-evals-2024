@@ -1,368 +1,368 @@
 {
   "results": {
     "blimp_supplement": {
-      "acc,none": 0.6094288999616712,
-      "acc_stderr,none": 0.006704265296502521,
+      "acc,none": 0.6673054810272135,
+      "acc_stderr,none": 0.006335665518849513,
       "alias": "blimp_supplement"
     },
     "blimp_supplement_hypernym": {
-      "acc,none": 0.5154394299287411,
-      "acc_stderr,none": 0.01723315748804321,
+      "acc,none": 0.49406175771971494,
+      "acc_stderr,none": 0.017240163311554257,
       "alias": " - blimp_supplement_hypernym"
     },
     "blimp_supplement_qa_congruence_easy": {
-      "acc,none": 0.484375,
-      "acc_stderr,none": 0.06296331249416676,
+      "acc,none": 0.5,
+      "acc_stderr,none": 0.06299407883487121,
       "alias": " - blimp_supplement_qa_congruence_easy"
     },
     "blimp_supplement_qa_congruence_tricky": {
-      "acc,none": 0.4121212121212121,
-      "acc_stderr,none": 0.03843566993588712,
+      "acc,none": 0.2909090909090909,
+      "acc_stderr,none": 0.03546563019624338,
       "alias": " - blimp_supplement_qa_congruence_tricky"
     },
     "blimp_supplement_subject_aux_inversion": {
-      "acc,none": 0.6426170157745021,
-      "acc_stderr,none": 0.007707474936342947,
+      "acc,none": 0.7289888802689424,
+      "acc_stderr,none": 0.007148634328733946,
       "alias": " - blimp_supplement_subject_aux_inversion"
     },
     "blimp_supplement_turn_taking": {
-      "acc,none": 0.5785714285714286,
-      "acc_stderr,none": 0.029562310756234698,
+      "acc,none": 0.5964285714285714,
+      "acc_stderr,none": 0.029372257325617847,
       "alias": " - blimp_supplement_turn_taking"
     },
     "blimp_filtered": {
-      "acc,none": 0.6359248434237996,
-      "acc_stderr,none": 0.0017997927119331228,
+      "acc,none": 0.6369102296450939,
+      "acc_stderr,none": 0.001811111999065807,
       "alias": "blimp_filtered"
     },
     "blimp_adjunct_island_filtered": {
-      "acc,none": 0.5571120689655172,
-      "acc_stderr,none": 0.016314671710752928,
+      "acc,none": 0.5808189655172413,
+      "acc_stderr,none": 0.016206205438900754,
       "alias": " - blimp_adjunct_island_filtered"
     },
     "blimp_anaphor_gender_agreement_filtered": {
-      "acc,none": 0.850669412976313,
-      "acc_stderr,none": 0.011443764916619598,
+      "acc,none": 0.6210092687950567,
+      "acc_stderr,none": 0.015576772188752539,
       "alias": " - blimp_anaphor_gender_agreement_filtered"
     },
     "blimp_anaphor_number_agreement_filtered": {
-      "acc,none": 0.9044038668098818,
-      "acc_stderr,none": 0.009641839410310151,
+      "acc,none": 0.7937701396348013,
+      "acc_stderr,none": 0.013267273385068203,
       "alias": " - blimp_anaphor_number_agreement_filtered"
     },
     "blimp_animate_subject_passive_filtered": {
-      "acc,none": 0.6625698324022347,
-      "acc_stderr,none": 0.015813901283913096,
+      "acc,none": 0.6324022346368715,
+      "acc_stderr,none": 0.01612554382355298,
       "alias": " - blimp_animate_subject_passive_filtered"
     },
     "blimp_animate_subject_trans_filtered": {
-      "acc,none": 0.8255687973997833,
-      "acc_stderr,none": 0.01249750335846555,
+      "acc,none": 0.8082340195016251,
+      "acc_stderr,none": 0.01296548853168945,
       "alias": " - blimp_animate_subject_trans_filtered"
     },
     "blimp_causative_filtered": {
-      "acc,none": 0.58679706601467,
-      "acc_stderr,none": 0.017227197666792135,
+      "acc,none": 0.5452322738386308,
+      "acc_stderr,none": 0.017421059632846563,
       "alias": " - blimp_causative_filtered"
     },
     "blimp_complex_NP_island_filtered": {
-      "acc,none": 0.425531914893617,
-      "acc_stderr,none": 0.017008682234718926,
+      "acc,none": 0.5224586288416075,
+      "acc_stderr,none": 0.01718316259923939,
       "alias": " - blimp_complex_NP_island_filtered"
     },
     "blimp_coordinate_structure_constraint_complex_left_branch_filtered": {
-      "acc,none": 0.39072847682119205,
-      "acc_stderr,none": 0.016218798663272214,
+      "acc,none": 0.2902869757174393,
+      "acc_stderr,none": 0.015087972138612208,
       "alias": " - blimp_coordinate_structure_constraint_complex_left_branch_filtered"
     },
     "blimp_coordinate_structure_constraint_object_extraction_filtered": {
-      "acc,none": 0.7892518440463646,
-      "acc_stderr,none": 0.013246023633726864,
+      "acc,none": 0.7218124341412012,
+      "acc_stderr,none": 0.014553815602338534,
       "alias": " - blimp_coordinate_structure_constraint_object_extraction_filtered"
     },
     "blimp_determiner_noun_agreement_1_filtered": {
-      "acc,none": 0.8729817007534983,
-      "acc_stderr,none": 0.0109310461699529,
+      "acc,none": 0.8503767491926802,
+      "acc_stderr,none": 0.011709308374679065,
       "alias": " - blimp_determiner_noun_agreement_1_filtered"
     },
     "blimp_determiner_noun_agreement_2_filtered": {
-      "acc,none": 0.8582169709989259,
-      "acc_stderr,none": 0.011438503252355391,
+      "acc,none": 0.8023630504833512,
+      "acc_stderr,none": 0.013058041880179382,
       "alias": " - blimp_determiner_noun_agreement_2_filtered"
     },
     "blimp_determiner_noun_agreement_irregular_1_filtered": {
-      "acc,none": 0.8252569750367107,
-      "acc_stderr,none": 0.014562638547180798,
+      "acc,none": 0.8267254038179148,
+      "acc_stderr,none": 0.01451421769993845,
       "alias": " - blimp_determiner_noun_agreement_irregular_1_filtered"
     },
     "blimp_determiner_noun_agreement_irregular_2_filtered": {
-      "acc,none": 0.8134146341463414,
-      "acc_stderr,none": 0.01361296817176774,
+      "acc,none": 0.8109756097560976,
+      "acc_stderr,none": 0.01368109531102792,
       "alias": " - blimp_determiner_noun_agreement_irregular_2_filtered"
     },
     "blimp_determiner_noun_agreement_with_adj_2_filtered": {
-      "acc,none": 0.7991498405951116,
-      "acc_stderr,none": 0.013067312347663675,
+      "acc,none": 0.7662061636556854,
+      "acc_stderr,none": 0.013804650713087348,
       "alias": " - blimp_determiner_noun_agreement_with_adj_2_filtered"
     },
     "blimp_determiner_noun_agreement_with_adj_irregular_1_filtered": {
-      "acc,none": 0.7604456824512534,
-      "acc_stderr,none": 0.01593956711614437,
+      "acc,none": 0.7534818941504178,
+      "acc_stderr,none": 0.016095380338895966,
       "alias": " - blimp_determiner_noun_agreement_with_adj_irregular_1_filtered"
     },
     "blimp_determiner_noun_agreement_with_adj_irregular_2_filtered": {
-      "acc,none": 0.7964285714285714,
-      "acc_stderr,none": 0.013901153776932908,
+      "acc,none": 0.7666666666666667,
+      "acc_stderr,none": 0.014601944818339012,
       "alias": " - blimp_determiner_noun_agreement_with_adj_irregular_2_filtered"
     },
     "blimp_determiner_noun_agreement_with_adjective_1_filtered": {
-      "acc,none": 0.8252947481243301,
-      "acc_stderr,none": 0.01243797171524336,
+      "acc,none": 0.8242229367631297,
+      "acc_stderr,none": 0.012467962690212017,
       "alias": " - blimp_determiner_noun_agreement_with_adjective_1_filtered"
     },
     "blimp_distractor_agreement_relational_noun_filtered": {
-      "acc,none": 0.631979695431472,
-      "acc_stderr,none": 0.01719095829225699,
+      "acc,none": 0.5,
+      "acc_stderr,none": 0.017823075144987977,
       "alias": " - blimp_distractor_agreement_relational_noun_filtered"
     },
     "blimp_distractor_agreement_relative_clause_filtered": {
-      "acc,none": 0.5143513203214696,
-      "acc_stderr,none": 0.01694460344041455,
+      "acc,none": 0.48220436280137774,
+      "acc_stderr,none": 0.016940847571269353,
       "alias": " - blimp_distractor_agreement_relative_clause_filtered"
     },
     "blimp_drop_argument_filtered": {
-      "acc,none": 0.7,
-      "acc_stderr,none": 0.01511652239054656,
+      "acc,none": 0.7184782608695652,
+      "acc_stderr,none": 0.014835597043533367,
       "alias": " - blimp_drop_argument_filtered"
     },
     "blimp_ellipsis_n_bar_1_filtered": {
-      "acc,none": 0.7144638403990025,
-      "acc_stderr,none": 0.015958954106751865,
+      "acc,none": 0.6334164588528678,
+      "acc_stderr,none": 0.01702608883471749,
       "alias": " - blimp_ellipsis_n_bar_1_filtered"
     },
     "blimp_ellipsis_n_bar_2_filtered": {
-      "acc,none": 0.751207729468599,
-      "acc_stderr,none": 0.015033001852121556,
+      "acc,none": 0.7294685990338164,
+      "acc_stderr,none": 0.015447542079463802,
       "alias": " - blimp_ellipsis_n_bar_2_filtered"
     },
     "blimp_existential_there_object_raising_filtered": {
-      "acc,none": 0.7278325123152709,
-      "acc_stderr,none": 0.01562872037413216,
+      "acc,none": 0.7647783251231527,
+      "acc_stderr,none": 0.014893474540971369,
       "alias": " - blimp_existential_there_object_raising_filtered"
     },
     "blimp_existential_there_quantifiers_1_filtered": {
-      "acc,none": 0.8473118279569892,
-      "acc_stderr,none": 0.011800936552257795,
+      "acc,none": 0.7967741935483871,
+      "acc_stderr,none": 0.013202287943238201,
       "alias": " - blimp_existential_there_quantifiers_1_filtered"
     },
     "blimp_existential_there_quantifiers_2_filtered": {
-      "acc,none": 0.15587266739846323,
-      "acc_stderr,none": 0.012024534395342783,
+      "acc,none": 0.15697036223929747,
+      "acc_stderr,none": 0.01205895169836391,
       "alias": " - blimp_existential_there_quantifiers_2_filtered"
     },
     "blimp_existential_there_subject_raising_filtered": {
-      "acc,none": 0.6915584415584416,
-      "acc_stderr,none": 0.015201975817715487,
+      "acc,none": 0.6179653679653679,
+      "acc_stderr,none": 0.015993097507618268,
       "alias": " - blimp_existential_there_subject_raising_filtered"
     },
     "blimp_expletive_it_object_raising_filtered": {
-      "acc,none": 0.6996047430830039,
-      "acc_stderr,none": 0.016650922725894336,
+      "acc,none": 0.7285902503293807,
+      "acc_stderr,none": 0.016151757930348284,
       "alias": " - blimp_expletive_it_object_raising_filtered"
     },
     "blimp_inchoative_filtered": {
-      "acc,none": 0.5298245614035088,
-      "acc_stderr,none": 0.01707918243142407,
+      "acc,none": 0.4994152046783626,
+      "acc_stderr,none": 0.01710963606821964,
       "alias": " - blimp_inchoative_filtered"
     },
     "blimp_intransitive_filtered": {
-      "acc,none": 0.6290322580645161,
-      "acc_stderr,none": 0.016405708221812698,
+      "acc,none": 0.6370967741935484,
+      "acc_stderr,none": 0.016330089637626666,
       "alias": " - blimp_intransitive_filtered"
     },
     "blimp_irregular_past_participle_adjectives_filtered": {
-      "acc,none": 0.6732570239334027,
-      "acc_stderr,none": 0.015137632591551852,
+      "acc,none": 0.6222684703433923,
+      "acc_stderr,none": 0.0156474978417706,
       "alias": " - blimp_irregular_past_participle_adjectives_filtered"
     },
     "blimp_irregular_past_participle_verbs_filtered": {
-      "acc,none": 0.7537154989384289,
-      "acc_stderr,none": 0.014045184621442238,
+      "acc,none": 0.7420382165605095,
+      "acc_stderr,none": 0.014262511584179346,
       "alias": " - blimp_irregular_past_participle_verbs_filtered"
     },
     "blimp_irregular_plural_subject_verb_agreement_1_filtered": {
-      "acc,none": 0.6828358208955224,
-      "acc_stderr,none": 0.016422619890916305,
+      "acc,none": 0.6592039800995025,
+      "acc_stderr,none": 0.01672628123897469,
       "alias": " - blimp_irregular_plural_subject_verb_agreement_1_filtered"
     },
     "blimp_irregular_plural_subject_verb_agreement_2_filtered": {
-      "acc,none": 0.6692825112107623,
-      "acc_stderr,none": 0.015761388250846272,
+      "acc,none": 0.6177130044843049,
+      "acc_stderr,none": 0.016279808146386132,
       "alias": " - blimp_irregular_plural_subject_verb_agreement_2_filtered"
     },
     "blimp_left_branch_island_echo_question_filtered": {
-      "acc,none": 0.6114044350580782,
-      "acc_stderr,none": 0.015847751184309353,
+      "acc,none": 0.662090813093981,
+      "acc_stderr,none": 0.015378472924960194,
       "alias": " - blimp_left_branch_island_echo_question_filtered"
     },
     "blimp_left_branch_island_simple_question_filtered": {
-      "acc,none": 0.42691903259726605,
-      "acc_stderr,none": 0.01604792730356496,
+      "acc,none": 0.31019978969505785,
+      "acc_stderr,none": 0.015007923527194057,
       "alias": " - blimp_left_branch_island_simple_question_filtered"
     },
     "blimp_matrix_question_npi_licensor_present_filtered": {
-      "acc,none": 0.06673842841765339,
-      "acc_stderr,none": 0.008192485688511166,
+      "acc,none": 0.10979547900968784,
+      "acc_stderr,none": 0.010262735559411774,
       "alias": " - blimp_matrix_question_npi_licensor_present_filtered"
     },
     "blimp_npi_present_1_filtered": {
-      "acc,none": 0.46974697469746973,
-      "acc_stderr,none": 0.01656268144975977,
+      "acc,none": 0.46864686468646866,
+      "acc_stderr,none": 0.016560428023701754,
       "alias": " - blimp_npi_present_1_filtered"
     },
     "blimp_npi_present_2_filtered": {
-      "acc,none": 0.4824945295404814,
-      "acc_stderr,none": 0.016537439964995425,
+      "acc,none": 0.5470459518599562,
+      "acc_stderr,none": 0.0164741717066819,
       "alias": " - blimp_npi_present_2_filtered"
     },
     "blimp_only_npi_licensor_present_filtered": {
-      "acc,none": 0.4410430839002268,
-      "acc_stderr,none": 0.016727911454104183,
+      "acc,none": 0.9115646258503401,
+      "acc_stderr,none": 0.009565744712536175,
       "alias": " - blimp_only_npi_licensor_present_filtered"
     },
     "blimp_only_npi_scope_filtered": {
-      "acc,none": 0.24253285543608125,
-      "acc_stderr,none": 0.014823953744845159,
+      "acc,none": 0.6081242532855436,
+      "acc_stderr,none": 0.016883684044178292,
       "alias": " - blimp_only_npi_scope_filtered"
     },
     "blimp_passive_1_filtered": {
-      "acc,none": 0.7488095238095238,
-      "acc_stderr,none": 0.01497291240586813,
+      "acc,none": 0.7678571428571429,
+      "acc_stderr,none": 0.0145759508946076,
       "alias": " - blimp_passive_1_filtered"
     },
     "blimp_passive_2_filtered": {
-      "acc,none": 0.7751937984496124,
-      "acc_stderr,none": 0.013899718978753868,
+      "acc,none": 0.7585825027685493,
+      "acc_stderr,none": 0.014248938547698563,
       "alias": " - blimp_passive_2_filtered"
     },
     "blimp_principle_A_c_command_filtered": {
-      "acc,none": 0.6553911205073996,
-      "acc_stderr,none": 0.01545957690774941,
+      "acc,none": 0.5940803382663847,
+      "acc_stderr,none": 0.015974479976853116,
       "alias": " - blimp_principle_A_c_command_filtered"
     },
     "blimp_principle_A_case_1_filtered": {
-      "acc,none": 0.9989035087719298,
-      "acc_stderr,none": 0.0010964912280701754,
+      "acc,none": 1.0,
+      "acc_stderr,none": 0.0,
       "alias": " - blimp_principle_A_case_1_filtered"
     },
     "blimp_principle_A_case_2_filtered": {
-      "acc,none": 0.6557377049180327,
-      "acc_stderr,none": 0.01571580784642378,
+      "acc,none": 0.6338797814207651,
+      "acc_stderr,none": 0.0159346382444379,
       "alias": " - blimp_principle_A_case_2_filtered"
     },
     "blimp_principle_A_domain_1_filtered": {
-      "acc,none": 0.8566739606126915,
-      "acc_stderr,none": 0.011596713938611818,
+      "acc,none": 0.9015317286652079,
+      "acc_stderr,none": 0.009860598507699402,
       "alias": " - blimp_principle_A_domain_1_filtered"
     },
     "blimp_principle_A_domain_2_filtered": {
-      "acc,none": 0.5978142076502733,
-      "acc_stderr,none": 0.016218974110757282,
+      "acc,none": 0.6371584699453552,
+      "acc_stderr,none": 0.01590410108135514,
       "alias": " - blimp_principle_A_domain_2_filtered"
     },
     "blimp_principle_A_domain_3_filtered": {
-      "acc,none": 0.5164718384697131,
-      "acc_stderr,none": 0.01629934989362184,
+      "acc,none": 0.565356004250797,
+      "acc_stderr,none": 0.016168283659630227,
       "alias": " - blimp_principle_A_domain_3_filtered"
     },
     "blimp_principle_A_reconstruction_filtered": {
-      "acc,none": 0.28852119958634953,
-      "acc_stderr,none": 0.01457744070155859,
+      "acc,none": 0.3247156153050672,
+      "acc_stderr,none": 0.015066291900723422,
       "alias": " - blimp_principle_A_reconstruction_filtered"
     },
     "blimp_regular_plural_subject_verb_agreement_1_filtered": {
-      "acc,none": 0.8101123595505618,
-      "acc_stderr,none": 0.013154371339028912,
+      "acc,none": 0.6910112359550562,
+      "acc_stderr,none": 0.015497548982120702,
       "alias": " - blimp_regular_plural_subject_verb_agreement_1_filtered"
     },
     "blimp_regular_plural_subject_verb_agreement_2_filtered": {
-      "acc,none": 0.653968253968254,
-      "acc_stderr,none": 0.015482828677812421,
+      "acc,none": 0.6656084656084656,
+      "acc_stderr,none": 0.015355043756691984,
       "alias": " - blimp_regular_plural_subject_verb_agreement_2_filtered"
     },
     "blimp_sentential_negation_npi_licensor_present_filtered": {
-      "acc,none": 0.9336235038084875,
-      "acc_stderr,none": 0.00821621337656786,
+      "acc,none": 0.9836779107725789,
+      "acc_stderr,none": 0.004182086321791074,
       "alias": " - blimp_sentential_negation_npi_licensor_present_filtered"
     },
     "blimp_sentential_negation_npi_scope_filtered": {
-      "acc,none": 0.3685419058553387,
-      "acc_stderr,none": 0.016355208298495856,
+      "acc,none": 0.4580941446613088,
+      "acc_stderr,none": 0.016891945277970374,
       "alias": " - blimp_sentential_negation_npi_scope_filtered"
     },
     "blimp_sentential_subject_island_filtered": {
-      "acc,none": 0.4339229968782518,
-      "acc_stderr,none": 0.015995892365256895,
+      "acc,none": 0.3870967741935484,
+      "acc_stderr,none": 0.015720636040014457,
       "alias": " - blimp_sentential_subject_island_filtered"
     },
     "blimp_superlative_quantifiers_1_filtered": {
-      "acc,none": 0.39938712972420837,
-      "acc_stderr,none": 0.01566119591864278,
+      "acc,none": 0.5801838610827375,
+      "acc_stderr,none": 0.015781306679522888,
       "alias": " - blimp_superlative_quantifiers_1_filtered"
     },
     "blimp_superlative_quantifiers_2_filtered": {
-      "acc,none": 0.5608519269776876,
-      "acc_stderr,none": 0.015812898512723966,
+      "acc,none": 0.592292089249493,
+      "acc_stderr,none": 0.01565757208885623,
       "alias": " - blimp_superlative_quantifiers_2_filtered"
     },
     "blimp_tough_vs_raising_1_filtered": {
-      "acc,none": 0.5622362869198312,
-      "acc_stderr,none": 0.016121458365857034,
+      "acc,none": 0.459915611814346,
+      "acc_stderr,none": 0.01619552005741328,
       "alias": " - blimp_tough_vs_raising_1_filtered"
     },
     "blimp_tough_vs_raising_2_filtered": {
-      "acc,none": 0.6630434782608695,
-      "acc_stderr,none": 0.015591940951324644,
+      "acc,none": 0.6673913043478261,
+      "acc_stderr,none": 0.015541728421836527,
       "alias": " - blimp_tough_vs_raising_2_filtered"
     },
     "blimp_transitive_filtered": {
-      "acc,none": 0.6877880184331797,
-      "acc_stderr,none": 0.015737746194610408,
+      "acc,none": 0.7131336405529954,
+      "acc_stderr,none": 0.01536086683206146,
       "alias": " - blimp_transitive_filtered"
     },
     "blimp_wh_island_filtered": {
-      "acc,none": 0.5947916666666667,
-      "acc_stderr,none": 0.015853031339108117,
+      "acc,none": 0.6177083333333333,
+      "acc_stderr,none": 0.015692055742121777,
       "alias": " - blimp_wh_island_filtered"
     },
     "blimp_wh_questions_object_gap_filtered": {
-      "acc,none": 0.5762514551804424,
-      "acc_stderr,none": 0.0168700544193125,
+      "acc,none": 0.6356228172293364,
+      "acc_stderr,none": 0.016429777512151796,
       "alias": " - blimp_wh_questions_object_gap_filtered"
     },
     "blimp_wh_questions_subject_gap_filtered": {
-      "acc,none": 0.6959910913140311,
-      "acc_stderr,none": 0.01535849900800029,
+      "acc,none": 0.7783964365256125,
+      "acc_stderr,none": 0.013867320974260557,
       "alias": " - blimp_wh_questions_subject_gap_filtered"
     },
     "blimp_wh_questions_subject_gap_long_distance_filtered": {
-      "acc,none": 0.7094515752625438,
-      "acc_stderr,none": 0.015517928944127781,
+      "acc,none": 0.7036172695449242,
+      "acc_stderr,none": 0.015608379292517852,
       "alias": " - blimp_wh_questions_subject_gap_long_distance_filtered"
     },
     "blimp_wh_vs_that_no_gap_filtered": {
-      "acc,none": 0.8013937282229965,
-      "acc_stderr,none": 0.013604112775350992,
+      "acc,none": 0.8826945412311266,
+      "acc_stderr,none": 0.010972740436566108,
       "alias": " - blimp_wh_vs_that_no_gap_filtered"
     },
     "blimp_wh_vs_that_no_gap_long_distance_filtered": {
-      "acc,none": 0.8731428571428571,
-      "acc_stderr,none": 0.0112575633443587,
+      "acc,none": 0.8742857142857143,
+      "acc_stderr,none": 0.011214070725852898,
       "alias": " - blimp_wh_vs_that_no_gap_long_distance_filtered"
     },
     "blimp_wh_vs_that_with_gap_filtered": {
-      "acc,none": 0.43307943416757344,
-      "acc_stderr,none": 0.01635398314059358,
+      "acc,none": 0.30359085963003263,
+      "acc_stderr,none": 0.015175927273307462,
       "alias": " - blimp_wh_vs_that_with_gap_filtered"
     },
     "blimp_wh_vs_that_with_gap_long_distance_filtered": {
@@ -373,13 +373,13 @@
   },
   "groups": {
     "blimp_supplement": {
-      "acc,none": 0.6094288999616712,
-      "acc_stderr,none": 0.006704265296502521,
+      "acc,none": 0.6673054810272135,
+      "acc_stderr,none": 0.006335665518849513,
       "alias": "blimp_supplement"
     },
     "blimp_filtered": {
-      "acc,none": 0.6359248434237996,
-      "acc_stderr,none": 0.0017997927119331228,
+      "acc,none": 0.6369102296450939,
+      "acc_stderr,none": 0.001811111999065807,
       "alias": "blimp_filtered"
     }
   },
@@ -2640,9 +2640,9 @@
     "bootstrap_iters": 100000,
     "gen_kwargs": null
   },
-  "git_hash": "0032e31",
-  "date": 1737253981.0213647,
-  "pretty_env_info": "PyTorch version: 2.5.1\nIs debug build: False\nCUDA used to build PyTorch: 12.4\nROCM used to build PyTorch: N/A\n\nOS: Red Hat Enterprise Linux 9.2 (Plow) (x86_64)\nGCC version: (GCC) 11.3.1 20221121 (Red Hat 11.3.1-4)\nClang version: Could not collect\nCMake version: version 3.20.2\nLibc version: glibc-2.34\n\nPython version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0] (64-bit runtime)\nPython platform: Linux-5.14.0-284.86.1.el9_2.x86_64-x86_64-with-glibc2.34\nIs CUDA available: True\nCUDA runtime version: Could not collect\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA A100-SXM4-80GB\nNvidia driver version: 535.154.05\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                       x86_64\nCPU op-mode(s):                     32-bit, 64-bit\nAddress sizes:                      46 bits physical, 57 bits virtual\nByte Order:                         Little Endian\nCPU(s):                             160\nOn-line CPU(s) list:                0-159\nVendor ID:                          GenuineIntel\nModel name:                         Intel(R) Xeon(R) Platinum 8380 CPU @ 2.30GHz\nCPU family:                         6\nModel:                              106\nThread(s) per core:                 2\nCore(s) per socket:                 40\nSocket(s):                          2\nStepping:                           6\nCPU max MHz:                        3400.0000\nCPU min MHz:                        800.0000\nBogoMIPS:                           4600.00\nFlags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\nVirtualization:                     VT-x\nL1d cache:                          3.8 MiB (80 instances)\nL1i cache:                          2.5 MiB (80 instances)\nL2 cache:                           100 MiB (80 instances)\nL3 cache:                           120 MiB (2 instances)\nNUMA node(s):                       2\nNUMA node0 CPU(s):                  0-39,80-119\nNUMA node1 CPU(s):                  40-79,120-159\nVulnerability Gather data sampling: Mitigation; Microcode\nVulnerability Itlb multihit:        Not affected\nVulnerability L1tf:                 Not affected\nVulnerability Mds:                  Not affected\nVulnerability Meltdown:             Not affected\nVulnerability Mmio stale data:      Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Retbleed:             Not affected\nVulnerability Spec rstack overflow: Not affected\nVulnerability Spec store bypass:    Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:           Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:           Mitigation; Enhanced IBRS, IBPB conditional, RSB filling, PBRSB-eIBRS SW sequence\nVulnerability Srbds:                Not affected\nVulnerability Tsx async abort:      Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==1.26.4\n[pip3] torch==2.5.1\n[pip3] torchaudio==2.5.1\n[pip3] torchdata==0.9.0\n[pip3] torchtune==0.3.1\n[pip3] torchvision==0.20.1\n[pip3] triton==3.1.0\n[conda] blas                      1.0                         mkl  \n[conda] ffmpeg                    4.3                  hf484d3e_0    pytorch\n[conda] libjpeg-turbo             2.0.0                h9bf148f_0    pytorch\n[conda] mkl                       2023.1.0         h213fc3f_46344  \n[conda] mkl-service               2.4.0           py312h5eee18b_1  \n[conda] mkl_fft                   1.3.11          py312h5eee18b_0  \n[conda] mkl_random                1.2.8           py312h526ad5a_0  \n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] pytorch                   2.5.1           py3.12_cuda12.4_cudnn9.1.0_0    pytorch\n[conda] pytorch-cuda              12.4                 hc786d27_7    pytorch\n[conda] pytorch-mutex             1.0                        cuda    pytorch\n[conda] torchaudio                2.5.1               py312_cu124    pytorch\n[conda] torchdata                 0.9.0                    pypi_0    pypi\n[conda] torchtriton               3.1.0                     py312    pytorch\n[conda] torchtune                 0.3.1                    pypi_0    pypi\n[conda] torchvision               0.20.1              py312_cu124    pytorch",
+  "git_hash": "453dbb0",
+  "date": 1737574158.038034,
+  "pretty_env_info": "PyTorch version: 2.5.1\nIs debug build: False\nCUDA used to build PyTorch: 12.4\nROCM used to build PyTorch: N/A\n\nOS: Red Hat Enterprise Linux 9.2 (Plow) (x86_64)\nGCC version: (GCC) 11.3.1 20221121 (Red Hat 11.3.1-4)\nClang version: Could not collect\nCMake version: version 3.20.2\nLibc version: glibc-2.34\n\nPython version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0] (64-bit runtime)\nPython platform: Linux-5.14.0-284.86.1.el9_2.x86_64-x86_64-with-glibc2.34\nIs CUDA available: True\nCUDA runtime version: Could not collect\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA A100-SXM4-80GB\nNvidia driver version: 535.154.05\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                       x86_64\nCPU op-mode(s):                     32-bit, 64-bit\nAddress sizes:                      46 bits physical, 57 bits virtual\nByte Order:                         Little Endian\nCPU(s):                             128\nOn-line CPU(s) list:                0-127\nVendor ID:                          GenuineIntel\nModel name:                         Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz\nCPU family:                         6\nModel:                              106\nThread(s) per core:                 2\nCore(s) per socket:                 32\nSocket(s):                          2\nStepping:                           6\nCPU max MHz:                        3400.0000\nCPU min MHz:                        800.0000\nBogoMIPS:                           5200.00\nFlags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\nVirtualization:                     VT-x\nL1d cache:                          3 MiB (64 instances)\nL1i cache:                          2 MiB (64 instances)\nL2 cache:                           80 MiB (64 instances)\nL3 cache:                           96 MiB (2 instances)\nNUMA node(s):                       2\nNUMA node0 CPU(s):                  0-31,64-95\nNUMA node1 CPU(s):                  32-63,96-127\nVulnerability Gather data sampling: Mitigation; Microcode\nVulnerability Itlb multihit:        Not affected\nVulnerability L1tf:                 Not affected\nVulnerability Mds:                  Not affected\nVulnerability Meltdown:             Not affected\nVulnerability Mmio stale data:      Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Retbleed:             Not affected\nVulnerability Spec rstack overflow: Not affected\nVulnerability Spec store bypass:    Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:           Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:           Mitigation; Enhanced IBRS, IBPB conditional, RSB filling, PBRSB-eIBRS SW sequence\nVulnerability Srbds:                Not affected\nVulnerability Tsx async abort:      Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==1.26.4\n[pip3] torch==2.5.1\n[pip3] torchaudio==2.5.1\n[pip3] torchdata==0.9.0\n[pip3] torchtune==0.3.1\n[pip3] torchvision==0.20.1\n[pip3] triton==3.1.0\n[conda] blas                      1.0                         mkl  \n[conda] ffmpeg                    4.3                  hf484d3e_0    pytorch\n[conda] libjpeg-turbo             2.0.0                h9bf148f_0    pytorch\n[conda] mkl                       2023.1.0         h213fc3f_46344  \n[conda] mkl-service               2.4.0           py312h5eee18b_1  \n[conda] mkl_fft                   1.3.11          py312h5eee18b_0  \n[conda] mkl_random                1.2.8           py312h526ad5a_0  \n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] pytorch                   2.5.1           py3.12_cuda12.4_cudnn9.1.0_0    pytorch\n[conda] pytorch-cuda              12.4                 hc786d27_7    pytorch\n[conda] pytorch-mutex             1.0                        cuda    pytorch\n[conda] torchaudio                2.5.1               py312_cu124    pytorch\n[conda] torchdata                 0.9.0                    pypi_0    pypi\n[conda] torchtriton               3.1.0                     py312    pytorch\n[conda] torchtune                 0.3.1                    pypi_0    pypi\n[conda] torchvision               0.20.1              py312_cu124    pytorch",
   "transformers_version": "4.47.1",
   "upper_git_hash": null
 }

@@ -2,10 +2,10 @@
 
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --gres=gpu:a100:1
+#SBATCH --gres=gpu:h100:1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=62GB
-#SBATCH --time=08:00:00
+#SBATCH --time=48:00:00
 #SBATCH --job-name=eval_blimp
 #SBATCH --output=eval_blimp_%A_%a.out
 #SBATCH --array=0-25

@@ -1,288 +1,288 @@
 {
   "results": {
     "blimp_supplement": {
-      "acc,none": 0.5756995017247988,
-      "acc_stderr,none": 0.00682413296570324,
+      "acc,none": 0.5737830586431583,
+      "acc_stderr,none": 0.0067824135705443584,
       "alias": "blimp_supplement"
     },
     "blimp_supplement_hypernym": {
-      "acc,none": 0.5201900237529691,
-      "acc_stderr,none": 0.017227317125423167,
+      "acc,none": 0.4845605700712589,
+      "acc_stderr,none": 0.01723315748804321,
       "alias": " - blimp_supplement_hypernym"
     },
     "blimp_supplement_qa_congruence_easy": {
-      "acc,none": 0.484375,
-      "acc_stderr,none": 0.06296331249416676,
+      "acc,none": 0.375,
+      "acc_stderr,none": 0.060993754559283325,
       "alias": " - blimp_supplement_qa_congruence_easy"
     },
     "blimp_supplement_qa_congruence_tricky": {
-      "acc,none": 0.43636363636363634,
-      "acc_stderr,none": 0.03872592983524754,
+      "acc,none": 0.3151515151515151,
+      "acc_stderr,none": 0.03627730575022407,
       "alias": " - blimp_supplement_qa_congruence_tricky"
     },
     "blimp_supplement_subject_aux_inversion": {
-      "acc,none": 0.595552107576933,
-      "acc_stderr,none": 0.007893329754543993,
+      "acc,none": 0.6079648306180502,
+      "acc_stderr,none": 0.007851828737558943,
       "alias": " - blimp_supplement_subject_aux_inversion"
     },
     "blimp_supplement_turn_taking": {
-      "acc,none": 0.5714285714285714,
-      "acc_stderr,none": 0.029627191278012152,
+      "acc,none": 0.5678571428571428,
+      "acc_stderr,none": 0.029657266129515993,
       "alias": " - blimp_supplement_turn_taking"
     },
     "blimp_filtered": {
-      "acc,none": 0.5675323590814196,
-      "acc_stderr,none": 0.0019636614446447067,
+      "acc,none": 0.5791732776617954,
+      "acc_stderr,none": 0.0019729278022197127,
       "alias": "blimp_filtered"
     },
     "blimp_adjunct_island_filtered": {
-      "acc,none": 0.5484913793103449,
-      "acc_stderr,none": 0.016344741611671258,
+      "acc,none": 0.5786637931034483,
+      "acc_stderr,none": 0.01621764084238311,
       "alias": " - blimp_adjunct_island_filtered"
     },
     "blimp_anaphor_gender_agreement_filtered": {
-      "acc,none": 0.583934088568486,
-      "acc_stderr,none": 0.015826216953783497,
+      "acc,none": 0.6302780638516993,
+      "acc_stderr,none": 0.015499505348909651,
       "alias": " - blimp_anaphor_gender_agreement_filtered"
     },
     "blimp_anaphor_number_agreement_filtered": {
-      "acc,none": 0.6229860365198711,
-      "acc_stderr,none": 0.015891921083419976,
+      "acc,none": 0.6176154672395274,
+      "acc_stderr,none": 0.015935576006271084,
       "alias": " - blimp_anaphor_number_agreement_filtered"
     },
     "blimp_animate_subject_passive_filtered": {
-      "acc,none": 0.5396648044692738,
-      "acc_stderr,none": 0.016669799592112056,
+      "acc,none": 0.6134078212290502,
+      "acc_stderr,none": 0.016286674879100977,
       "alias": " - blimp_animate_subject_passive_filtered"
     },
     "blimp_animate_subject_trans_filtered": {
-      "acc,none": 0.7919826652221018,
-      "acc_stderr,none": 0.013367252178859718,
+      "acc,none": 0.7540628385698809,
+      "acc_stderr,none": 0.014182421448885658,
       "alias": " - blimp_animate_subject_trans_filtered"
     },
     "blimp_causative_filtered": {
-      "acc,none": 0.597799511002445,
-      "acc_stderr,none": 0.017154894304237927,
+      "acc,none": 0.5158924205378973,
+      "acc_stderr,none": 0.017483947208777616,
       "alias": " - blimp_causative_filtered"
     },
     "blimp_complex_NP_island_filtered": {
-      "acc,none": 0.45271867612293143,
-      "acc_stderr,none": 0.017123445860025403,
+      "acc,none": 0.5354609929078015,
+      "acc_stderr,none": 0.017157209673069572,
       "alias": " - blimp_complex_NP_island_filtered"
     },
     "blimp_coordinate_structure_constraint_complex_left_branch_filtered": {
-      "acc,none": 0.45474613686534215,
-      "acc_stderr,none": 0.016552347494923365,
+      "acc,none": 0.543046357615894,
+      "acc_stderr,none": 0.016558852386903983,
       "alias": " - blimp_coordinate_structure_constraint_complex_left_branch_filtered"
     },
     "blimp_coordinate_structure_constraint_object_extraction_filtered": {
-      "acc,none": 0.6754478398314014,
-      "acc_stderr,none": 0.015206665465396134,
+      "acc,none": 0.6575342465753424,
+      "acc_stderr,none": 0.01541216302638389,
       "alias": " - blimp_coordinate_structure_constraint_object_extraction_filtered"
     },
     "blimp_determiner_noun_agreement_1_filtered": {
-      "acc,none": 0.6942949407965554,
-      "acc_stderr,none": 0.01512339603852253,
+      "acc,none": 0.6512378902045209,
+      "acc_stderr,none": 0.015644456870816913,
       "alias": " - blimp_determiner_noun_agreement_1_filtered"
     },
     "blimp_determiner_noun_agreement_2_filtered": {
-      "acc,none": 0.7003222341568206,
-      "acc_stderr,none": 0.015022241664487295,
+      "acc,none": 0.6133190118152524,
+      "acc_stderr,none": 0.015969015750644022,
       "alias": " - blimp_determiner_noun_agreement_2_filtered"
     },
     "blimp_determiner_noun_agreement_irregular_1_filtered": {
-      "acc,none": 0.7033773861967695,
-      "acc_stderr,none": 0.0175162797715427,
+      "acc,none": 0.6607929515418502,
+      "acc_stderr,none": 0.018155603037859243,
       "alias": " - blimp_determiner_noun_agreement_irregular_1_filtered"
     },
     "blimp_determiner_noun_agreement_irregular_2_filtered": {
-      "acc,none": 0.6878048780487804,
-      "acc_stderr,none": 0.01619212065806926,
+      "acc,none": 0.6341463414634146,
+      "acc_stderr,none": 0.016830867301033028,
       "alias": " - blimp_determiner_noun_agreement_irregular_2_filtered"
     },
     "blimp_determiner_noun_agreement_with_adj_2_filtered": {
-      "acc,none": 0.6567481402763018,
-      "acc_stderr,none": 0.015486096046643688,
+      "acc,none": 0.620616365568544,
+      "acc_stderr,none": 0.015826576502329243,
       "alias": " - blimp_determiner_noun_agreement_with_adj_2_filtered"
     },
     "blimp_determiner_noun_agreement_with_adj_irregular_1_filtered": {
-      "acc,none": 0.6518105849582173,
-      "acc_stderr,none": 0.017791350220552518,
+      "acc,none": 0.6044568245125348,
+      "acc_stderr,none": 0.01826080894683933,
       "alias": " - blimp_determiner_noun_agreement_with_adj_irregular_1_filtered"
     },
     "blimp_determiner_noun_agreement_with_adj_irregular_2_filtered": {
-      "acc,none": 0.6392857142857142,
-      "acc_stderr,none": 0.016578612879281987,
+      "acc,none": 0.6297619047619047,
+      "acc_stderr,none": 0.016670466919356853,
       "alias": " - blimp_determiner_noun_agreement_with_adj_irregular_2_filtered"
     },
     "blimp_determiner_noun_agreement_with_adjective_1_filtered": {
-      "acc,none": 0.6881028938906752,
-      "acc_stderr,none": 0.015174850060771697,
+      "acc,none": 0.6280814576634512,
+      "acc_stderr,none": 0.01583156854039934,
       "alias": " - blimp_determiner_noun_agreement_with_adjective_1_filtered"
     },
     "blimp_distractor_agreement_relational_noun_filtered": {
-      "acc,none": 0.6218274111675127,
-      "acc_stderr,none": 0.01728592356822108,
+      "acc,none": 0.5558375634517766,
+      "acc_stderr,none": 0.017711587693867867,
       "alias": " - blimp_distractor_agreement_relational_noun_filtered"
     },
     "blimp_distractor_agreement_relative_clause_filtered": {
-      "acc,none": 0.4936854190585534,
-      "acc_stderr,none": 0.016950235683694716,
+      "acc,none": 0.513203214695752,
+      "acc_stderr,none": 0.016945676392984277,
       "alias": " - blimp_distractor_agreement_relative_clause_filtered"
     },
     "blimp_drop_argument_filtered": {
-      "acc,none": 0.657608695652174,
-      "acc_stderr,none": 0.015652632225867994,
+      "acc,none": 0.6717391304347826,
+      "acc_stderr,none": 0.015490025260318122,
       "alias": " - blimp_drop_argument_filtered"
     },
     "blimp_ellipsis_n_bar_1_filtered": {
-      "acc,none": 0.5960099750623441,
-      "acc_stderr,none": 0.01733787338584898,
+      "acc,none": 0.5074812967581047,
+      "acc_stderr,none": 0.0176646536270547,
       "alias": " - blimp_ellipsis_n_bar_1_filtered"
     },
     "blimp_ellipsis_n_bar_2_filtered": {
-      "acc,none": 0.5772946859903382,
-      "acc_stderr,none": 0.017177694667688037,
+      "acc,none": 0.5809178743961353,
+      "acc_stderr,none": 0.017157506971277065,
       "alias": " - blimp_ellipsis_n_bar_2_filtered"
     },
     "blimp_existential_there_object_raising_filtered": {
-      "acc,none": 0.6022167487684729,
-      "acc_stderr,none": 0.01718657091500589,
+      "acc,none": 0.6527093596059114,
+      "acc_stderr,none": 0.016718450844195498,
       "alias": " - blimp_existential_there_object_raising_filtered"
     },
     "blimp_existential_there_quantifiers_1_filtered": {
-      "acc,none": 0.7,
-      "acc_stderr,none": 0.015034943152808422,
+      "acc,none": 0.7279569892473118,
+      "acc_stderr,none": 0.01460036756741627,
       "alias": " - blimp_existential_there_quantifiers_1_filtered"
     },
     "blimp_existential_there_quantifiers_2_filtered": {
-      "acc,none": 0.2667398463227223,
-      "acc_stderr,none": 0.014660618576310413,
+      "acc,none": 0.44127332601536773,
+      "acc_stderr,none": 0.016460114221316758,
       "alias": " - blimp_existential_there_quantifiers_2_filtered"
     },
     "blimp_existential_there_subject_raising_filtered": {
-      "acc,none": 0.5064935064935064,
-      "acc_stderr,none": 0.01645631250988474,
+      "acc,none": 0.5497835497835498,
+      "acc_stderr,none": 0.016375919686559885,
       "alias": " - blimp_existential_there_subject_raising_filtered"
     },
     "blimp_expletive_it_object_raising_filtered": {
-      "acc,none": 0.5928853754940712,
-      "acc_stderr,none": 0.017844694525734763,
+      "acc,none": 0.6693017127799736,
+      "acc_stderr,none": 0.017088043392342638,
       "alias": " - blimp_expletive_it_object_raising_filtered"
     },
     "blimp_inchoative_filtered": {
-      "acc,none": 0.49473684210526314,
-      "acc_stderr,none": 0.017108699841546136,
+      "acc,none": 0.5263157894736842,
+      "acc_stderr,none": 0.017085933763808094,
       "alias": " - blimp_inchoative_filtered"
     },
     "blimp_intransitive_filtered": {
-      "acc,none": 0.5852534562211982,
-      "acc_stderr,none": 0.016732230265124385,
+      "acc,none": 0.6347926267281107,
+      "acc_stderr,none": 0.016352198734018473,
       "alias": " - blimp_intransitive_filtered"
     },
     "blimp_irregular_past_participle_adjectives_filtered": {
-      "acc,none": 0.5005202913631633,
-      "acc_stderr,none": 0.01613742187229014,
+      "acc,none": 0.5494276795005203,
+      "acc_stderr,none": 0.016058386454435376,
       "alias": " - blimp_irregular_past_participle_adjectives_filtered"
     },
     "blimp_irregular_past_participle_verbs_filtered": {
-      "acc,none": 0.5828025477707006,
-      "acc_stderr,none": 0.016074472606850784,
+      "acc,none": 0.583864118895966,
+      "acc_stderr,none": 0.01606862308291768,
       "alias": " - blimp_irregular_past_participle_verbs_filtered"
     },
     "blimp_irregular_plural_subject_verb_agreement_1_filtered": {
-      "acc,none": 0.5671641791044776,
-      "acc_stderr,none": 0.01748470148042436,
+      "acc,none": 0.599502487562189,
+      "acc_stderr,none": 0.017291697666235485,
       "alias": " - blimp_irregular_plural_subject_verb_agreement_1_filtered"
     },
     "blimp_irregular_plural_subject_verb_agreement_2_filtered": {
-      "acc,none": 0.6065022421524664,
-      "acc_stderr,none": 0.016366223752861526,
+      "acc,none": 0.554932735426009,
+      "acc_stderr,none": 0.01664922975332247,
       "alias": " - blimp_irregular_plural_subject_verb_agreement_2_filtered"
     },
     "blimp_left_branch_island_echo_question_filtered": {
-      "acc,none": 0.6071805702217529,
-      "acc_stderr,none": 0.015878513590193967,
+      "acc,none": 0.7222808870116156,
+      "acc_stderr,none": 0.014561642947017202,
       "alias": " - blimp_left_branch_island_echo_question_filtered"
     },
     "blimp_left_branch_island_simple_question_filtered": {
-      "acc,none": 0.4815983175604627,
-      "acc_stderr,none": 0.01621115204462963,
+      "acc,none": 0.5520504731861199,
+      "acc_stderr,none": 0.016134002937278347,
       "alias": " - blimp_left_branch_island_simple_question_filtered"
     },
     "blimp_matrix_question_npi_licensor_present_filtered": {
-      "acc,none": 0.20129171151776104,
-      "acc_stderr,none": 0.013162338448758547,
+      "acc,none": 0.25941872981700753,
+      "acc_stderr,none": 0.014388417742275426,
       "alias": " - blimp_matrix_question_npi_licensor_present_filtered"
     },
     "blimp_npi_present_1_filtered": {
-      "acc,none": 0.5379537953795379,
-      "acc_stderr,none": 0.016545209370136087,
+      "acc,none": 0.5544554455445545,
+      "acc_stderr,none": 0.016494379113698526,
       "alias": " - blimp_npi_present_1_filtered"
     },
     "blimp_npi_present_2_filtered": {
-      "acc,none": 0.5087527352297593,
-      "acc_stderr,none": 0.016545049180445158,
+      "acc,none": 0.5185995623632386,
+      "acc_stderr,none": 0.01653613177846765,
       "alias": " - blimp_npi_present_2_filtered"
     },
     "blimp_only_npi_licensor_present_filtered": {
-      "acc,none": 0.36507936507936506,
-      "acc_stderr,none": 0.016220543800134803,
+      "acc,none": 0.8764172335600907,
+      "acc_stderr,none": 0.011087827394092574,
       "alias": " - blimp_only_npi_licensor_present_filtered"
     },
     "blimp_only_npi_scope_filtered": {
-      "acc,none": 0.37753882915173237,
-      "acc_stderr,none": 0.016766167717923497,
+      "acc,none": 0.5854241338112306,
+      "acc_stderr,none": 0.01703861071855397,
       "alias": " - blimp_only_npi_scope_filtered"
     },
     "blimp_passive_1_filtered": {
-      "acc,none": 0.7130952380952381,
-      "acc_stderr,none": 0.015615707515738259,
+      "acc,none": 0.6738095238095239,
+      "acc_stderr,none": 0.01618539231019534,
       "alias": " - blimp_passive_1_filtered"
     },
     "blimp_passive_2_filtered": {
-      "acc,none": 0.7054263565891473,
-      "acc_stderr,none": 0.015178173587666155,
+      "acc,none": 0.6589147286821705,
+      "acc_stderr,none": 0.015784935878042583,
       "alias": " - blimp_passive_2_filtered"
     },
     "blimp_principle_A_c_command_filtered": {
-      "acc,none": 0.5517970401691332,
-      "acc_stderr,none": 0.01617748996657851,
+      "acc,none": 0.4799154334038055,
+      "acc_stderr,none": 0.016251873646468774,
       "alias": " - blimp_principle_A_c_command_filtered"
     },
     "blimp_principle_A_case_1_filtered": {
-      "acc,none": 0.8947368421052632,
-      "acc_stderr,none": 0.010167792367560343,
+      "acc,none": 0.8245614035087719,
+      "acc_stderr,none": 0.012601286474164827,
       "alias": " - blimp_principle_A_case_1_filtered"
     },
     "blimp_principle_A_case_2_filtered": {
-      "acc,none": 0.5978142076502733,
-      "acc_stderr,none": 0.016218974110757282,
+      "acc,none": 0.4994535519125683,
+      "acc_stderr,none": 0.016538520164395144,
       "alias": " - blimp_principle_A_case_2_filtered"
     },
     "blimp_principle_A_domain_1_filtered": {
-      "acc,none": 0.6050328227571116,
-      "acc_stderr,none": 0.016178363241631532,
+      "acc,none": 0.5842450765864332,
+      "acc_stderr,none": 0.016311009562145873,
       "alias": " - blimp_principle_A_domain_1_filtered"
     },
     "blimp_principle_A_domain_2_filtered": {
-      "acc,none": 0.5300546448087432,
-      "acc_stderr,none": 0.01650862510214106,
+      "acc,none": 0.5409836065573771,
+      "acc_stderr,none": 0.016482878325471153,
       "alias": " - blimp_principle_A_domain_2_filtered"
     },
     "blimp_principle_A_domain_3_filtered": {
-      "acc,none": 0.49309245483528164,
-      "acc_stderr,none": 0.016306645487111616,
+      "acc,none": 0.48884165781083955,
+      "acc_stderr,none": 0.01630414029780863,
       "alias": " - blimp_principle_A_domain_3_filtered"
     },
     "blimp_principle_A_reconstruction_filtered": {
-      "acc,none": 0.32368148914167527,
-      "acc_stderr,none": 0.015053795279169497,
+      "acc,none": 0.28955532574974147,
+      "acc_stderr,none": 0.014592924881744818,
       "alias": " - blimp_principle_A_reconstruction_filtered"
     },
     "blimp_regular_plural_subject_verb_agreement_1_filtered": {
-      "acc,none": 0.5865168539325842,
-      "acc_stderr,none": 0.016516509584282718,
+      "acc,none": 0.5382022471910113,
+      "acc_stderr,none": 0.016720443032298873,
       "alias": " - blimp_regular_plural_subject_verb_agreement_1_filtered"
     },
     "blimp_regular_plural_subject_verb_agreement_2_filtered": {
@@ -291,8 +291,8 @@
       "alias": " - blimp_regular_plural_subject_verb_agreement_2_filtered"
     },
     "blimp_sentential_negation_npi_licensor_present_filtered": {
-      "acc,none": 0.8433079434167573,
-      "acc_stderr,none": 0.011997623947180056,
+      "acc,none": 0.8063112078346029,
+      "acc_stderr,none": 0.013043142922352985,
       "alias": " - blimp_sentential_negation_npi_licensor_present_filtered"
     },
     "blimp_sentential_negation_npi_scope_filtered": {
@@ -301,85 +301,85 @@
       "alias": " - blimp_sentential_negation_npi_scope_filtered"
     },
     "blimp_sentential_subject_island_filtered": {
-      "acc,none": 0.5036420395421436,
-      "acc_stderr,none": 0.016137002495170503,
+      "acc,none": 0.5119667013527576,
+      "acc_stderr,none": 0.01613280812437338,
       "alias": " - blimp_sentential_subject_island_filtered"
     },
     "blimp_superlative_quantifiers_1_filtered": {
-      "acc,none": 0.5495403472931563,
-      "acc_stderr,none": 0.01590956529524018,
+      "acc,none": 0.5352400408580184,
+      "acc_stderr,none": 0.015948477227933175,
       "alias": " - blimp_superlative_quantifiers_1_filtered"
     },
     "blimp_superlative_quantifiers_2_filtered": {
-      "acc,none": 0.32454361054766734,
-      "acc_stderr,none": 0.014918222271316289,
+      "acc,none": 0.539553752535497,
+      "acc_stderr,none": 0.01588139736913302,
       "alias": " - blimp_superlative_quantifiers_2_filtered"
     },
     "blimp_tough_vs_raising_1_filtered": {
-      "acc,none": 0.5580168776371308,
-      "acc_stderr,none": 0.016138067240698283,
+      "acc,none": 0.45147679324894513,
+      "acc_stderr,none": 0.016171124826321232,
       "alias": " - blimp_tough_vs_raising_1_filtered"
     },
     "blimp_tough_vs_raising_2_filtered": {
-      "acc,none": 0.5282608695652173,
-      "acc_stderr,none": 0.016467111128349244,
+      "acc,none": 0.6097826086956522,
+      "acc_stderr,none": 0.01609100137239633,
       "alias": " - blimp_tough_vs_raising_2_filtered"
     },
     "blimp_transitive_filtered": {
-      "acc,none": 0.6152073732718893,
-      "acc_stderr,none": 0.016523977235982302,
+      "acc,none": 0.5956221198156681,
+      "acc_stderr,none": 0.016667465155104023,
       "alias": " - blimp_transitive_filtered"
     },
     "blimp_wh_island_filtered": {
-      "acc,none": 0.5739583333333333,
-      "acc_stderr,none": 0.015968235052403135,
+      "acc,none": 0.5760416666666667,
+      "acc_stderr,none": 0.015958028400077512,
       "alias": " - blimp_wh_island_filtered"
     },
     "blimp_wh_questions_object_gap_filtered": {
-      "acc,none": 0.5448195576251456,
-      "acc_stderr,none": 0.017001001179016244,
+      "acc,none": 0.4807916181606519,
+      "acc_stderr,none": 0.017057117746339414,
       "alias": " - blimp_wh_questions_object_gap_filtered"
     },
     "blimp_wh_questions_subject_gap_filtered": {
-      "acc,none": 0.5567928730512249,
-      "acc_stderr,none": 0.016586470476438343,
+      "acc,none": 0.5712694877505567,
+      "acc_stderr,none": 0.016524049569518057,
       "alias": " - blimp_wh_questions_subject_gap_filtered"
     },
     "blimp_wh_questions_subject_gap_long_distance_filtered": {
-      "acc,none": 0.5799299883313885,
-      "acc_stderr,none": 0.016869870177903777,
+      "acc,none": 0.5285880980163361,
+      "acc_stderr,none": 0.01706169127527143,
       "alias": " - blimp_wh_questions_subject_gap_long_distance_filtered"
     },
     "blimp_wh_vs_that_no_gap_filtered": {
-      "acc,none": 0.6085946573751452,
-      "acc_stderr,none": 0.01664286984663594,
+      "acc,none": 0.6504065040650406,
+      "acc_stderr,none": 0.016260162601626018,
       "alias": " - blimp_wh_vs_that_no_gap_filtered"
     },
     "blimp_wh_vs_that_no_gap_long_distance_filtered": {
-      "acc,none": 0.656,
-      "acc_stderr,none": 0.016068503238904137,
+      "acc,none": 0.6422857142857142,
+      "acc_stderr,none": 0.016213491836041857,
       "alias": " - blimp_wh_vs_that_no_gap_long_distance_filtered"
     },
     "blimp_wh_vs_that_with_gap_filtered": {
-      "acc,none": 0.4581066376496192,
-      "acc_stderr,none": 0.016444431621759476,
+      "acc,none": 0.40805223068552776,
+      "acc_stderr,none": 0.0162210226877025,
       "alias": " - blimp_wh_vs_that_with_gap_filtered"
     },
     "blimp_wh_vs_that_with_gap_long_distance_filtered": {
-      "acc,none": 0.3956043956043956,
-      "acc_stderr,none": 0.016218446823382946,
+      "acc,none": 0.4065934065934066,
+      "acc_stderr,none": 0.01629200024755093,
       "alias": " - blimp_wh_vs_that_with_gap_long_distance_filtered"
     }
   },
   "groups": {
     "blimp_supplement": {
-      "acc,none": 0.5756995017247988,
-      "acc_stderr,none": 0.00682413296570324,
+      "acc,none": 0.5737830586431583,
+      "acc_stderr,none": 0.0067824135705443584,
       "alias": "blimp_supplement"
     },
     "blimp_filtered": {
-      "acc,none": 0.5675323590814196,
-      "acc_stderr,none": 0.0019636614446447067,
+      "acc,none": 0.5791732776617954,
+      "acc_stderr,none": 0.0019729278022197127,
       "alias": "blimp_filtered"
     }
   },
@@ -2640,8 +2640,8 @@
     "bootstrap_iters": 100000,
     "gen_kwargs": null
   },
-  "git_hash": "0032e31",
-  "date": 1737254011.000357,
+  "git_hash": "453dbb0",
+  "date": 1737616300.0330422,
   "pretty_env_info": "PyTorch version: 2.5.1\nIs debug build: False\nCUDA used to build PyTorch: 12.4\nROCM used to build PyTorch: N/A\n\nOS: Red Hat Enterprise Linux 9.2 (Plow) (x86_64)\nGCC version: (GCC) 11.3.1 20221121 (Red Hat 11.3.1-4)\nClang version: Could not collect\nCMake version: version 3.20.2\nLibc version: glibc-2.34\n\nPython version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0] (64-bit runtime)\nPython platform: Linux-5.14.0-284.86.1.el9_2.x86_64-x86_64-with-glibc2.34\nIs CUDA available: True\nCUDA runtime version: Could not collect\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA A100-SXM4-80GB\nNvidia driver version: 535.154.05\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                       x86_64\nCPU op-mode(s):                     32-bit, 64-bit\nAddress sizes:                      46 bits physical, 57 bits virtual\nByte Order:                         Little Endian\nCPU(s):                             128\nOn-line CPU(s) list:                0-127\nVendor ID:                          GenuineIntel\nModel name:                         Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz\nCPU family:                         6\nModel:                              106\nThread(s) per core:                 2\nCore(s) per socket:                 32\nSocket(s):                          2\nStepping:                           6\nCPU max MHz:                        3400.0000\nCPU min MHz:                        800.0000\nBogoMIPS:                           5200.00\nFlags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\nVirtualization:                     VT-x\nL1d cache:                          3 MiB (64 instances)\nL1i cache:                          2 MiB (64 instances)\nL2 cache:                           80 MiB (64 instances)\nL3 cache:                           96 MiB (2 instances)\nNUMA node(s):                       2\nNUMA node0 CPU(s):                  0-31,64-95\nNUMA node1 CPU(s):                  32-63,96-127\nVulnerability Gather data sampling: Mitigation; Microcode\nVulnerability Itlb multihit:        Not affected\nVulnerability L1tf:                 Not affected\nVulnerability Mds:                  Not affected\nVulnerability Meltdown:             Not affected\nVulnerability Mmio stale data:      Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Retbleed:             Not affected\nVulnerability Spec rstack overflow: Not affected\nVulnerability Spec store bypass:    Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:           Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:           Mitigation; Enhanced IBRS, IBPB conditional, RSB filling, PBRSB-eIBRS SW sequence\nVulnerability Srbds:                Not affected\nVulnerability Tsx async abort:      Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==1.26.4\n[pip3] torch==2.5.1\n[pip3] torchaudio==2.5.1\n[pip3] torchdata==0.9.0\n[pip3] torchtune==0.3.1\n[pip3] torchvision==0.20.1\n[pip3] triton==3.1.0\n[conda] blas                      1.0                         mkl  \n[conda] ffmpeg                    4.3                  hf484d3e_0    pytorch\n[conda] libjpeg-turbo             2.0.0                h9bf148f_0    pytorch\n[conda] mkl                       2023.1.0         h213fc3f_46344  \n[conda] mkl-service               2.4.0           py312h5eee18b_1  \n[conda] mkl_fft                   1.3.11          py312h5eee18b_0  \n[conda] mkl_random                1.2.8           py312h526ad5a_0  \n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] pytorch                   2.5.1           py3.12_cuda12.4_cudnn9.1.0_0    pytorch\n[conda] pytorch-cuda              12.4                 hc786d27_7    pytorch\n[conda] pytorch-mutex             1.0                        cuda    pytorch\n[conda] torchaudio                2.5.1               py312_cu124    pytorch\n[conda] torchdata                 0.9.0                    pypi_0    pypi\n[conda] torchtriton               3.1.0                     py312    pytorch\n[conda] torchtune                 0.3.1                    pypi_0    pypi\n[conda] torchvision               0.20.1              py312_cu124    pytorch",
   "transformers_version": "4.47.1",
   "upper_git_hash": null
