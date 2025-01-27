@@ -23,6 +23,7 @@ import sys
 from dataclasses import dataclass, field
 from typing import Optional
 import evaluate
+import torch
 
 import datasets
 import numpy as np
@@ -298,12 +299,10 @@ def main():
         trust_remote_code=model_args.trust_remote_code,
         use_auth_token=True if model_args.use_auth_token else None,
     )
-
-    if model_args.model_name_or_path.startswith("meta-llama") or model_args.model_name_or_path.startswith("gpt2") or model_args.model_name_or_path.startswith("EleutherAI"):
-        tokenizer.pad_token = tokenizer.eos_token
-
+    
     model = AutoModelForSequenceClassification.from_pretrained(
         model_args.model_name_or_path,
+        torch_dtype=torch.bfloat16,
         from_tf=bool(".ckpt" in model_args.model_name_or_path),
         config=config,
         cache_dir=model_args.cache_dir,
@@ -312,6 +311,10 @@ def main():
         trust_remote_code=model_args.trust_remote_code,
         ignore_mismatched_sizes=model_args.ignore_mismatched_sizes,
     )
+
+    # add pad token
+    tokenizer.pad_token = tokenizer.eos_token
+    model.config.pad_token_id = model.config.eos_token_id
 
     # Freeze all parameters (including embeddings) except the classifier head
     if model_args.freeze_model:
