@@ -299,7 +299,6 @@ def main():
         trust_remote_code=model_args.trust_remote_code,
         use_auth_token=True if model_args.use_auth_token else None,
     )
-    
     model = AutoModelForSequenceClassification.from_pretrained(
         model_args.model_name_or_path,
         torch_dtype=torch.bfloat16,

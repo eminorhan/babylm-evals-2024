@@ -8,7 +8,7 @@
 #SBATCH --time=48:00:00
 #SBATCH --job-name=eval_glue
 #SBATCH --output=eval_glue_%A_%a.out
-#SBATCH --array=0-285  # 26 models * 11 tasks - 1
+#SBATCH --array=148-153  # 26 models * 11 tasks - 1
 
 # Define models and tasks
 MODEL_NAMES=(
@@ -58,22 +58,22 @@ for FULL_MODEL_PATH in ${BASE_MODEL_PATH}/step_*; do
     mkdir -p results/finetune/$MODEL_NAME/$STEP_NAME/$TASK/
 
     python finetune_classification.py \
-    --model_name_or_path $MODEL_PATH_FULL \
-    --output_dir results/finetune/$MODEL_NAME/$STEP_NAME/$TASK/ \
-    --train_file evaluation_data/glue_filtered/$TRAIN_NAME.train.jsonl \
-    --validation_file evaluation_data/glue_filtered/$VALID_NAME.valid.jsonl \
-    --do_train $DO_TRAIN \
-    --do_eval \
-    --do_predict \
-    --max_seq_length 128 \
-    --per_device_train_batch_size 64 \
-    --learning_rate 0.0003 \
-    --num_train_epochs 10 \
-    --patience 3 \
-    --evaluation_strategy epoch \
-    --save_strategy epoch \
-    --overwrite_output_dir \
-    --trust_remote_code \
-    --seed 1
+        --model_name_or_path $MODEL_PATH_FULL \
+        --output_dir results/finetune/$MODEL_NAME/$STEP_NAME/$TASK/ \
+        --train_file evaluation_data/glue_filtered/$TRAIN_NAME.train.jsonl \
+        --validation_file evaluation_data/glue_filtered/$VALID_NAME.valid.jsonl \
+        --do_train $DO_TRAIN \
+        --do_eval \
+        --do_predict \
+        --max_seq_length 128 \
+        --per_device_train_batch_size 64 \
+        --learning_rate 0.0003 \
+        --num_train_epochs 10 \
+        --patience 3 \
+        --evaluation_strategy epoch \
+        --save_strategy epoch \
+        --overwrite_output_dir \
+        --trust_remote_code \
+        --seed 1
     
 done
